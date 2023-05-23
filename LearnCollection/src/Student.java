@@ -1,0 +1,32 @@
+import java.util.Objects;
+
+public class Student {
+    private String name;
+    private Integer rollno;
+
+    public Student(String name, Integer rollno) {
+        this.name = name;
+        this.rollno = rollno;
+    }
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "name='" + name + '\'' +
+                ", rollno=" + rollno +
+                '}';
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Student student = (Student) o;
+        return Objects.equals(rollno, student.rollno);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(rollno);
+    }
+}
