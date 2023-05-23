@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a65d8b2a-7fa2-40e9-96a3-4688a4e4eb13" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Day2/src/Account2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2/src/Book7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2/src/Customer5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2/src/FindNumberOfInstance6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2/src/Fruit1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2/src/Fruit8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2/src/Rectangle4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2/src/Student_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Que10/src/com/account/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Que10/src/com/account/test/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee-service/src/main/java/com/ankush/employee/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../employee-service/src/main/java/com/ankush/employee/service/EmployeeService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2PH0cvrJG8jUecc8npieZA4SKPj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a65d8b2a-7fa2-40e9-96a3-4688a4e4eb13" name="Changes" comment="" />
+      <created>1683098786218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683098786218</updated>
+    </task>
+    <servers />
+  </component>
+</project>
